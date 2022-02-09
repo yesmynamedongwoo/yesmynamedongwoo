@@ -1,22 +1,10 @@
-<div align=center> 
-  <p>
-  <a href="https://dangwoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:kdw3917ss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdw3917ss@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/dang_woo_-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
-</p>
+
 <p>
   yes! my name is Dong woo !!
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yesmynamedongwoo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesmynamedongwoo&layout=compact&hide_border=true&theme=white)
-  
  
-
-
-  
-  
-
 ## Platforms & Languages
 <p>
 
@@ -31,9 +19,6 @@
   <br>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+
 </div>
 </div>
