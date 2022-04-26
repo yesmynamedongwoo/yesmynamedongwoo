@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </p>
-<P>안녕하세요 김동우입니다! </P>
+<P>안녕하세요. 김동우입니다! </P>
 
 
 </div>
